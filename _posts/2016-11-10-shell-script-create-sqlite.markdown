@@ -2,7 +2,6 @@
 layout: post
 title:  "A bash script to make a sqlite database from a CSV"
 date:   2016-11-10 19:25:53 -0800
-categories: makefile make build
 ---
 
 Also today I learned a ton about shell scripts because I wanted to have a

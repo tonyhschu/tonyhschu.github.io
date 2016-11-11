@@ -2,7 +2,6 @@
 layout: post
 title:  "Compiling non-related things in a Makefile"
 date:   2016-11-10 19:25:53 -0800
-categories: makefile make build
 ---
 
 [Bostock wrote a post a while back about documenting a build process
