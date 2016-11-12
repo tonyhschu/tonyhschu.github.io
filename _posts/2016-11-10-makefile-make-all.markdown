@@ -5,8 +5,8 @@ date:   2016-11-10 19:25:53 -0800
 ---
 
 [Bostock wrote a post a while back about documenting a build process
-using `make`.](https://bost.ocks.org/mike/make/) I applied it today to document a build process to create
-a `sqlite` file from a bunch of CSV.
+using `make`.](https://bost.ocks.org/mike/make/) I applied it today to document a build process to [create
+a `sqlite` file from a bunch of CSV]({{ site.github.url }}/2016/11/10/shell-script-create-sqlite.html).
 
 The `makefile` looks like this:
 
